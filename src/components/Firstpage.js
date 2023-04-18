@@ -147,7 +147,7 @@ export default function Firstpage() {
                     <h3>Hello, It's Me</h3>
                     <h1>Yugank Kumar Yadav</h1>
                     <h3>And I'm a <span className="multiple-text"></span></h3>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.ncidunt officia aspernatur beatae porro iure minus sunt minima.</p>
+                    <p>Full stack web developer with experience in building and maintaining web applications. Proficient in front-end technologies such as HTML, CSS, and JavaScript, as well as back-end technologies such as Node.js, PHP, and MySQL. Skilled in agile development, project management, and problem-solving.</p>
                     <ul className="social-icons">
                         <li><a href="https://www.linkedin.com/in/yugank-yadav/" target="_blank">
                             <i className="fa fa-linkedin-square" aria-hidden="true"></i>
