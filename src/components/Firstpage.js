@@ -262,7 +262,7 @@ export default function Firstpage() {
 
       <section className="services" id="services">
         <h2 className="heading">
-          Our <span>Services</span>
+          My <span>Services</span>
         </h2>
         <div className="services-container">
           <div className="services-box">
