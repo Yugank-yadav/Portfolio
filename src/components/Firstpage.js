@@ -315,7 +315,7 @@ export default function Firstpage() {
         </h2>
         <div className="portfolio-container">
           <div className="portfolio-box">
-            <img src="./img/1.jpg" alt="" />
+            <img src="./img/1.png" alt="" />
             <div className="portfolio-layer">
               <h4>Netflix Clone</h4>
               <p>
@@ -332,7 +332,7 @@ export default function Firstpage() {
           </div>
 
           <div className="portfolio-box">
-            <img src="./img/2.jpg" alt="" />
+            <img src="./img/2.png" alt="" />
             <div className="portfolio-layer">
               <h4>Zomato Clone</h4>
               <p>
@@ -349,7 +349,7 @@ export default function Firstpage() {
           </div>
 
           <div className="portfolio-box">
-            <img src="./img/3.jpg" alt="" />
+            <img src="./img/3.png" alt="" />
             <div className="portfolio-layer">
               <h4>Weather Application</h4>
               <p>
@@ -365,7 +365,7 @@ export default function Firstpage() {
           </div>
 
           <div className="portfolio-box">
-            <img src="./img/4.jpg" alt="" />
+            <img src="./img/4.png" alt="" />
             <div className="portfolio-layer">
               <h4>Educational Website</h4>
               <p>
@@ -381,7 +381,7 @@ export default function Firstpage() {
           </div>
 
           <div className="portfolio-box">
-            <img src="./img/5.jpg" alt="" />
+            <img src="./img/5.png" alt="" />
             <div className="portfolio-layer">
               <h4>Restaurant Web Application</h4>
               <p>
@@ -397,7 +397,7 @@ export default function Firstpage() {
           </div>
 
           <div className="portfolio-box">
-            <img src="./img/6.jpg" alt="" />
+            <img src="./img/6.png" alt="" />
             <div className="portfolio-layer">
               <h4>E-commerce Web Application</h4>
               <p>
