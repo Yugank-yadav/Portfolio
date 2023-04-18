@@ -395,7 +395,7 @@ span {
     box-shadow: 0 0 1rem var(--bg-color);
     overflow: hidden;
     display: flex;
-    height: 240px;
+    height: 290px;
 }
 
 .portfolio-box img {
