@@ -230,24 +230,24 @@ export default function Firstpage() {
             fascinated by the world of technology. I completed my 10th standard
             from Kendriya Vidyalaya in 2019, and after that, I pursued my
             passion for technology by moving to a polytechnic college to study
-            computer science engineering. In 2022, I completed my diploma in
+            computer science engineering.<br></br> In 2022, I completed my diploma in
             computer science engineering from Government polytechnic Aurai
             Bhadohi, where I gained expertise in various programming languages
             and frameworks. Some of the programming skills I have are HTML, CSS,
             JavaScript, Python, PHP, OOPS, DBMS, Django, MongoDB, Express js,
-            React js, Node js, MySQL, and REST API. Over the years, I have
+            React js, Node js, MySQL, and REST API.<br></br> Over the years, I have
             gained experience in developing web applications and solving complex
             problems using my programming skills. I am passionate about
             exploring new technologies and learning new things to improve my
-            skills further. As a full-stack developer, I am capable of working
+            skills further.<br></br> As a full-stack developer, I am capable of working
             on both the frontend and backend of an application. I have
             experience in developing responsive websites and web applications
-            that provide a seamless user experience. In my free time, I like to
+            that provide a seamless user experience.<br></br> In my free time, I like to
             keep myself updated with the latest technology trends and
             developments in the field of computer science. I believe that
             continuous learning is the key to success in this field, and I
             strive to stay ahead of the curve by continuously improving my
-            skills and staying up-to-date with the latest technologies. If you
+            skills and staying up-to-date with the latest technologies.<br></br> If you
             want to know more about me or have any questions, feel free to get
             in touch!
           </p>
