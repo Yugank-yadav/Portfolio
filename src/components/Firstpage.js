@@ -200,7 +200,7 @@ export default function Firstpage() {
             </li>
           </ul>
           <a
-            href="Yugank_Kumar Yadav_Resume.pdf"
+            href="https://drive.google.com/file/d/1HbkkGylYyLZ3-iA6CN3Es_eXE4DtLB_F/view?usp=share_link"
             className="btn"
             target="_blank"
           >
